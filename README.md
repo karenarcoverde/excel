@@ -1,6 +1,7 @@
 # excel
 <br>
 Curso da Udemy: "Do Básico ao Avançado - O Curso Completo de Microsoft Excel" <br>
+<br>
 
 atalhos: <br>
 ctrl + L -> localizar e substituir <br>
