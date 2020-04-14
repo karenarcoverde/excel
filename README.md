@@ -1,13 +1,15 @@
 # excel
 <br>
-Excel versão 2019 
+
+## Versão: <br>
+Microsoft Excel 2019 
 <br>
 <br>
-Exercícios
+Exercícios 
 <br> 
 <br>
 
-atalhos: <br>
+## Atalhos: <br>
 ctrl + L -> localizar e substituir <br>
 ctrl + -> inserir células <br>
 ctrl - -> exclui células <br>
