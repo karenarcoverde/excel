@@ -1,13 +1,8 @@
 # excel
-<br>
 Exercícios  <br>
 
 ## Versão: <br>
 Microsoft Excel 2019 
-<br>
-<br>
-
-<br> 
 <br>
 
 ## Atalhos: <br>
