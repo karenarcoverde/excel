@@ -5,6 +5,9 @@ Exercícios  <br>
 Microsoft Excel 2019 
 <br>
 
+## Objetivo:
+Aprimorar meu conhecimento em Excel ao fazer exercícios sobre o assunto. <br>
+
 ## Atalhos: <br>
 ctrl + L -> localizar e substituir <br>
 ctrl + -> inserir células <br>
