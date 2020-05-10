@@ -25,5 +25,5 @@ shift + botão esquerdo do mouse -> diminui o gráfico proporcionalmente <br>
 Compatível com Microsoft Excel 2007 e posteriores. <br>
 Este programa contém gráficos comparativos de venda de bebidas não alcoólicas, por exemplo, possui um gráfico comparando duas bebidas (Pepsi, Sprite, Guarana ou Red Bull) em um determinado ano. O usuário pode escolher as duas bebidas para comparar e o ano para compará-las. Além disso, clicando em cada botão das bebidas não alcoólicas, o usuário poderá comparar dois anos de uma determinada bebida escolhido por ele. <br> <br>   
 
-## Prova Teste seu Nível: <br> <br>
+## Prova Teste seu Nível: <br>
  Exercícicios para testar o conhecimento em Excel. <br> <br>
